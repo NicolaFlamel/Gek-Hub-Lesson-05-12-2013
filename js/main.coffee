@@ -1,6 +1,7 @@
 do ->
-  func = (args...) ->
-     console.log args
+  self = this
+  func = (args...) =>
+     this
 
 
   func 2, 3
