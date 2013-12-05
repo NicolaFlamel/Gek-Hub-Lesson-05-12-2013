@@ -1,7 +1,4 @@
 do ->
-  qwer=if asd>2
-    asdd()
-  else
-    qwe()
+  func = (x,y) -> ( x + y )
 
-
+  console.log(func 2, 3)
