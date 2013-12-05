@@ -1,4 +1,6 @@
 do ->
-  func = (x,y) -> ( x + y )
+  func = (args...) ->
+     console.log args
 
-  console.log(func 2, 3)
+
+  func 2, 3
