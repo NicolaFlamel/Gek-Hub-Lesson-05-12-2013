@@ -1,9 +1,3 @@
 do ->
-  array=[c:1
-  ,
-    2
-  ,
-    3
-  ,
-    asd:123]
-  console.log(array)
+  x = 1
+  arr = "current number is: #{x}px"
