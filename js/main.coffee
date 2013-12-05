@@ -1,7 +1,2 @@
 do ->
-  arr=///
-  ^http://
-    \w+
-    /
-    .com$
-    ///
+  unless x>1 #unless = if not
