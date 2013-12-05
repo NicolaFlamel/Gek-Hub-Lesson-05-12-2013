@@ -1,2 +1,4 @@
 do ->
-  unless x>1 #unless = if not
+  x=true
+  x=on #off
+  x=yes #no
