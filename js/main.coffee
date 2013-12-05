@@ -1,4 +1,7 @@
 do ->
-  array = [1,2,3,4]
-  for number in array
-    console.log number
+  qwer=if asd>2
+    asdd()
+  else
+    qwe()
+
+
